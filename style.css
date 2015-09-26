@@ -1,0 +1,23 @@
+.page-header {
+	text-align: center;
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+	
+}
+
+.page-header h1 {
+	font-size: 128px;
+	word-break: keep-all;
+	color: #FDB515;
+}
+
+.page-header h2 {
+	color: #DDD5C7;
+}
+body {
+	background-color: #003262;
+}
