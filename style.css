@@ -1,3 +1,4 @@
+/*
 .page-header {
 	text-align: center;
 	margin: 0;
@@ -18,6 +19,68 @@
 .page-header h2 {
 	color: #DDD5C7;
 }
+*/
+
+.img-centered {
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    color: #fff;
+    background: #003262;
+}
+
+header .container {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto 20px;
+}
+
+header .intro-text .name {
+    display: block;
+    text-transform: uppercase;
+/*    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-size: 2em;
+    font-weight: 700;
+}
+
+header .intro-text .skills {
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
+/*
 body {
 	background-color: #003262;
+}
+*/
+
+.btn-outline {
+    margin-top: 15px;
+    border: solid 2px #000;
+    font-size: 20px;
+    color:black;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+/*
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active,
+.btn-outline.active {
+    border: solid 2px #fff;
+    color: #18bc9c;
+    background: #fff;
+
+}
+*/
+
+section .cv {
+	background-color: #BAC0C2;
 }
