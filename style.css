@@ -81,6 +81,14 @@ body {
 }
 */
 
-section .cv {
-	background-color: #BAC0C2;
+.cv {
+	background: #FFDF96;
+}
+
+.papers {
+	background: #82C2FF;
+}
+
+.others {
+	background: #FFDF96;
 }
