@@ -8,14 +8,14 @@ header {
     text-align: center;
     color: #fff;
     background: #003262;
-	height: 75%;
+	height: 40%;
 	
 }
 
 header .container {
 	
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 header img {
@@ -27,7 +27,7 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
 
-    font-size: 500%;
+    font-size: 200%;
     font-weight: 700;
 }
 
