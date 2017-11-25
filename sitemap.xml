@@ -6,7 +6,7 @@
     <url>
     
       <loc>http://waldotekampa.me/post/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -69,7 +69,7 @@
     <url>
     
       <loc>http://waldotekampa.me/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -78,7 +78,7 @@
     <url>
     
       <loc>http://waldotekampa.me/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-07:00</lastmod>
+      <lastmod>2016-04-19T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -87,7 +87,7 @@
     <url>
     
       <loc>http://waldotekampa.me/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00-07:00</lastmod>
+      <lastmod>2016-04-18T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -96,7 +96,7 @@
     <url>
     
       <loc>http://waldotekampa.me/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00-07:00</lastmod>
+      <lastmod>2016-04-17T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -114,7 +114,7 @@
     <url>
     
       <loc>http://waldotekampa.me/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
+      <lastmod>2014-03-10T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -181,7 +181,7 @@
     <url>
     
       <loc>http://waldotekampa.me/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -191,7 +191,7 @@
     <url>
     
       <loc>http://waldotekampa.me/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
+      <lastmod>2014-03-10T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
