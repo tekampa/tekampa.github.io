@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Waldo Ojeda</title>
+    <link>http://waldotekampa.me/home/</link>
+    <description>Recent content in Homes on Waldo Ojeda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Waldo Ojeda</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://waldotekampa.me/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://waldotekampa.me/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://waldotekampa.me/home/about/</guid>
+      <description>I am an Assistant Professor in the William Newman Department of Real Estate at the Zicklin School of Business, Baruch College, CUNY. I obtained my Ph.D. in Economics at UC Berkeley. I previously worked in the Household and Real Estate Finance Section at the Federal Reserve Board. I graduated from the University of Chicago in 2010 with a B.A. with Honors in Economics.
+Download my CV -- </description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>http://waldotekampa.me/home/workingpapers/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://waldotekampa.me/home/workingpapers/</guid>
+      <description>Common Ownership in the Loan Market
+PDF
+Firms and banks increasingly have institutional investors as shareholders in common. These shareholders not only receive profits through interest rates, but also benefit from firm profits. In this paper, I first illustrate the implication of firm and bank common ownership on loans in a simple model. I then provide new evidence of the rise and extent of common ownership between firms and banks. I next show that a firm that borrows from a bank with common owners obtains a lower interest rate and a larger loan.</description>
+    </item>
+    
+    <item>
+      <title>Works in Progress</title>
+      <link>http://waldotekampa.me/home/worksinprogress/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://waldotekampa.me/home/worksinprogress/</guid>
+      <description>Inattention to Earthquake Risk in Home Values I estimate the impact of earthquake risk on residential home prices. Using USGS earthquake hazard map updates, I find that changes in earthquake risk in a county do not impact its house prices. There is no differential impact in counties with ex-ante higher earthquake risk, counties that experience the largest earthquake risk increase or when the updated earthquake risk reaches a level that can cause moderate potential damages to construction when before it did not.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://waldotekampa.me/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://waldotekampa.me/home/teaching/</guid>
+      <description>I teach the following course at Baruch College, CUNY:
+Undergraduate:
+ Real Estate Capital Markets  I was a Graduate Student Instructor for the following courses at UC Berkeley:
+Undergraduate:
+ Psychology and Economics, Department of Economics  Graduate:
+ Corporate Finance, Haas School of Business  </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://waldotekampa.me/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://waldotekampa.me/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://waldotekampa.me/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://waldotekampa.me/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
